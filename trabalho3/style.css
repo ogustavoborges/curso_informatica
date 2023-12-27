@@ -1,0 +1,20 @@
+body {
+    background-color: #242323;
+}
+
+.card-img-top {
+    border-bottom: 1px solid #d6d5d5;
+    max-height: 440px;
+    min-height: 260px;
+}
+
+.star{
+    color: rgb(221, 221, 50);
+}
+
+h1{
+    font-family: 'Rubik Scribble', sans-serif;
+}
+.bg-header {
+    background-color: #161515;
+}
